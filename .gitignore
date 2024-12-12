@@ -1,0 +1,10 @@
+data/m.yaml
+shell/m.yaml
+shell/config.cfg
+data/proxies/
+
+shell/clash.fake-ip.iptables.sh
+shell/clash.fake-ip.iptables.reset.sh
+shell/base.txt
+shell/m.yaml
+shell/mosdns.proxies.txt

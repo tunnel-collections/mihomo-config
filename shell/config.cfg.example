@@ -1,0 +1,12 @@
+DNS_PORT=1053
+ENABLE_CUSTOM_DNS=1
+REDIR_PORT=1234
+MIXED_PORT=7788
+API_PORT=1111
+SECRET=1008611
+FAKE_IP_RANGE=28.0.0.1/8
+
+
+declare -A PROVIDER_LIST
+PROVIDER_LIST[XSUS]="https://xxx.com/api/v1/client/subscribe?token=12345"
+PROVIDER_LIST[DJJC]="https://djj.com/api/v1/client/subscribe?token=4567"
